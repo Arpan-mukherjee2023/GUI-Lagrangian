@@ -1,8 +1,6 @@
 import tkinter.font
 from tkinter import *
-import matplotlib.pyplot as plt
 import math
-import smtplib
 from PIL import Image,ImageTk
 
 
